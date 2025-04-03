@@ -1,0 +1,6 @@
+Flask
+openpyxl
+PyPDF2
+cohere
+qdrant-client
+openai==1.52.2
