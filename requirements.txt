@@ -1,6 +1,6 @@
-Flask
+Flask==2.3.3
 openpyxl
 PyPDF2
 cohere
 qdrant-client
-openai==1.52.2
+openai==1.2.3
